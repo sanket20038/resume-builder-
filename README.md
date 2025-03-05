@@ -42,6 +42,9 @@ If you encounter any issues, try:
   npm install
   ```
 - Running the project with a compatible Node.js version (e.g., Node 18 or 20).
+![image](https://github.com/user-attachments/assets/5c881ff4-b2c6-4be4-96fb-89858ccdb607)
+![image](https://github.com/user-attachments/assets/958b44a6-f28a-405d-80e2-3eff8b67e519)
+
 
 ## 📄 License
 This project is licensed under the MIT License.
